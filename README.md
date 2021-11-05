@@ -1,4 +1,4 @@
-# Landing Page
+# Landing Page 🖥️
 Uma landing page desenvolvida com o propósito de praticar minhas habilidades com HTML e CSS.
 
 Essa página foi constuída durante um curso online do site [FreeCodeCamp](https://www.freecodecamp.org/).
